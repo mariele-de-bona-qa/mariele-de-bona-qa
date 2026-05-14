@@ -97,6 +97,7 @@ Modern QA Engineering laboratory focused on:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariele-de-bona-qa&theme=tokyonight"/>
 </p>
+
 ---
 
 # 🔗 Connect with Me
