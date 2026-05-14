@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Mariele De Bona
 
-<!--
-**mariele-de-bona-qa/mariele-de-bona-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 QA Engineer | Automation | APIs | Performance Testing
 
-Here are some ideas to get you started:
+Quality Assurance Engineer focused on E2E Automation, API Testing and Performance Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Main Stack
+
+* Cypress
+* Postman
+* K6
+* JavaScript
+* Azure DevOps
+* CI/CD
+* SQL
+* Power BI
+
+---
+
+### 📌 Featured Projects
+
+* qa-automation-cypress
+* api-testing-postman
+* performance-tests-k6
+* qa-engineering-lab
+
+---
+
+### 📈 Focus Areas
+
+* Test Automation
+* API Testing
+* Performance Engineering
+* Quality Engineering
+* Continuous Quality
+
+---
+
+### 📫 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/mariele-de-bona-qa
