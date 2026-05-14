@@ -88,10 +88,10 @@ Modern QA Engineering laboratory focused on:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariele-de-bona-qa&show_icons=true&theme=tokyonight"/>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariele-de-bona-qa&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariele-de-bona-qa&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariele-de-bona-qa&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
