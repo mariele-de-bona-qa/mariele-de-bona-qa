@@ -5,12 +5,6 @@
 ![K6](https://img.shields.io/badge/K6-Performance-blue)
 ![Grafana](https://img.shields.io/badge/Grafana-Observability-orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-DevOps-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Python](https://img.shields.io/badge/Python-AI-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
-![LangChain](https://img.shields.io/badge/LangChain-LLM-green)
 
 # 👋 Hi there, I'm Mariele De Bona
 
