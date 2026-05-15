@@ -1,7 +1,16 @@
 ![Cypress](https://img.shields.io/badge/Cypress-Automation-brightgreen)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-green)
+![Selenium](https://img.shields.io/badge/Selenium-Testing-brightgreen)
 ![Postman](https://img.shields.io/badge/Postman-API-orange)
 ![K6](https://img.shields.io/badge/K6-Performance-blue)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-DevOps-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+![LangChain](https://img.shields.io/badge/LangChain-LLM-green)
 
 # 👋 Hi there, I'm Mariele De Bona
 
