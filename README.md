@@ -8,7 +8,7 @@
 
 # 👋 Hi there, I'm Mariele De Bona
 
-# 🚀 QA Engineer | Test Automation | API Testing | Performance Engineering | Quality Engineering
+#  QA Engineer | Test Automation | API Testing | Performance Engineering | Quality Engineering
 
 Quality Assurance Engineer focused on scalable test automation, API validation, performance testing and continuous quality practices.
 
@@ -16,7 +16,7 @@ Passionate about building reliable automation frameworks, improving software qua
 
 ---
 
-# ⚡ Main Stack
+#  Main Stack
 
 * Cypress
 * Postman
@@ -31,7 +31,7 @@ Passionate about building reliable automation frameworks, improving software qua
 
 ---
 
-# 🏗️ QA Engineering Focus
+#  QA Engineering Focus
 
 * E2E Automation
 * API Testing
@@ -46,7 +46,7 @@ Passionate about building reliable automation frameworks, improving software qua
 
 # 📌 Featured Projects
 
-## 🚀 QA Engineering Lab
+##  QA Engineering Lab
 
 Modern QA Engineering laboratory focused on:
 
@@ -60,19 +60,19 @@ Modern QA Engineering laboratory focused on:
 
 ---
 
-## 🧪 Cypress Automation Framework
+##  Cypress Automation Framework
 
 🔗 https://github.com/mariele-de-bona-qa/qa-automation-cypress
 
 ---
 
-## 🔌 API Testing Collections
+##  API Testing Collections
 
 🔗 https://github.com/mariele-de-bona-qa/api-testing-postman
 
 ---
 
-## ⚡ Performance Testing with K6
+##  Performance Testing with K6
 
 🔗 https://github.com/mariele-de-bona-qa/performance-tests-k6
 
@@ -89,7 +89,7 @@ Modern QA Engineering laboratory focused on:
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariele-de-bona-qa&show_icons=true&theme=tokyonight"/>
